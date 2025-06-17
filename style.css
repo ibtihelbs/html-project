@@ -1,0 +1,15 @@
+a {
+  color: rgb(168, 17, 135);
+  font-weight: thin;
+  text-decoration: none;
+  letter-spacing: 0.09px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+p {
+  background-image: url(./téléchargement.jpg);
+  background-repeat: no-repeat;
+  color: white;
+  background-size: cover;
+  padding: 50px;
+  margin: 30px;
+}
