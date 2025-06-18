@@ -79,5 +79,5 @@ function add(z, w) {
 const res = add(850, 150);
 console.log(res / 2);
 mallaJawInfo.forEach(function (x) {
-  sleepy(x.sleepHours, x.firstName);
+  sleepy(x.sleepHours, x.firstName.toUpperCase());
 });
